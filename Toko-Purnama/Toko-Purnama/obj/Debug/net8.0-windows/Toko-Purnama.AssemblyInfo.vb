@@ -16,7 +16,7 @@ Imports System.Reflection
 <Assembly: System.Reflection.AssemblyCompanyAttribute("Toko-Purnama"),  _
  Assembly: System.Reflection.AssemblyConfigurationAttribute("Debug"),  _
  Assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0"),  _
- Assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ce5d29c1a481aaa6a4daa077798817d2e630349e"),  _
+ Assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+74f90358bf4bdd64458fd856d2c6285e6a8ee479"),  _
  Assembly: System.Reflection.AssemblyProductAttribute("Toko-Purnama"),  _
  Assembly: System.Reflection.AssemblyTitleAttribute("Toko-Purnama"),  _
  Assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0"),  _

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Toko-Purnama\\Toko-Purnama\\Toko-Purnama\\Toko-Purnama.vbproj": {}
+    "C:\\xampp\\htdocs\\Toko-Purnama\\Toko-Purnama\\Toko-Purnama\\Toko-Purnama.vbproj": {}
   },
   "projects": {
-    "D:\\Toko-Purnama\\Toko-Purnama\\Toko-Purnama\\Toko-Purnama.vbproj": {
+    "C:\\xampp\\htdocs\\Toko-Purnama\\Toko-Purnama\\Toko-Purnama\\Toko-Purnama.vbproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Toko-Purnama\\Toko-Purnama\\Toko-Purnama\\Toko-Purnama.vbproj",
+        "projectUniqueName": "C:\\xampp\\htdocs\\Toko-Purnama\\Toko-Purnama\\Toko-Purnama\\Toko-Purnama.vbproj",
         "projectName": "Toko-Purnama",
-        "projectPath": "D:\\Toko-Purnama\\Toko-Purnama\\Toko-Purnama\\Toko-Purnama.vbproj",
+        "projectPath": "C:\\xampp\\htdocs\\Toko-Purnama\\Toko-Purnama\\Toko-Purnama\\Toko-Purnama.vbproj",
         "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-        "outputPath": "D:\\Toko-Purnama\\Toko-Purnama\\Toko-Purnama\\obj\\",
+        "outputPath": "C:\\xampp\\htdocs\\Toko-Purnama\\Toko-Purnama\\Toko-Purnama\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -49,6 +49,16 @@
       "frameworks": {
         "net8.0-windows7.0": {
           "targetAlias": "net8.0-windows",
+          "dependencies": {
+            "MySql.Data": {
+              "target": "Package",
+              "version": "[9.2.0, )"
+            },
+            "MySqlConnector": {
+              "target": "Package",
+              "version": "[2.4.0, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
